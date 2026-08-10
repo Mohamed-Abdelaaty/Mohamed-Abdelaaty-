@@ -61,9 +61,9 @@ Transforming complex data into strategic insights across Finance, Performance, M
 
 ### 🚀 Projects
 
-> Featured projects coming soon — currently preparing case studies for publishing.
-
----
+**[Enterprise BI Solution for Digital Egypt Pioneers Initiative (DEPI)](https://github.com/Mohamed-Abdelaaty/Enterprise-BI-Solution-for-Digital-Egypt-Pioneers-Initiative-DEPI-)**
+End-to-end BI solution for a national training program: PostgreSQL data-quality automation, a full Power BI semantic model with 80 DAX measures, and a Python pipeline for daily automated QC reporting.
+`PostgreSQL` `Power BI` `DAX` `Python`
 
 ### 🌐 Portfolio
 
